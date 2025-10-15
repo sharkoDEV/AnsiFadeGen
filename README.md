@@ -32,4 +32,4 @@ Clone the repo and launch the GUI:
 ```bash
 git clone https://github.com/yourname/ansi-gradient-generator.git
 cd ansi-gradient-generator
-python gradient_gui.py
+python maib.py
